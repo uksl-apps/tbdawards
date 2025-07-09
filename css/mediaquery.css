@@ -1,0 +1,503 @@
+/*mobile view only*/
+ @media only screen and (max-width: 800px){
+  body{
+      padding:0;
+      margin:0;
+      background-color:black;
+      background-image: linear-gradient(rgba(0, 0, 0, .85), rgba(0, 0, 0, .85)), url("https://tbdawards.com/assets/logo/bg.jpg");
+      font-size:14px;
+  }
+  
+
+  .tbd_award_heading{
+      width:100%;
+      height:auto;
+      padding-top:5px;
+      font-size:17px;
+      font-weight:bold;
+      border-radius:0px;
+  }
+  
+  .tbd_award_sub_title{
+      font-size:14px;
+      width:100%;
+  }
+  .tbd_award_sub_title h1{
+      font-size:19px;
+      
+  }
+  
+  .tbd_awards_heading_title{
+      font-size:20px;
+      color:#000000;
+      font-weight:bold;
+  }
+
+
+/*start about section*/
+.tbd_award_about{
+    font-weight:400;
+    font-family:'Syne', sans-serif;
+    font-size:14px;
+    padding-left:4%;
+    padding-right:4%;
+    text-align:justify;
+}
+.tbd_awd_main_head{
+    flex-direction:column;
+}
+.tbd_awd_main_sub_head{
+    width:100%;
+}
+
+/* abhishek code start*/
+.tbd_awd_head{
+    /*color:red;*/
+    /*width:100%;*/
+    font-size:20px;
+    font-weight:600;
+    padding:0;
+    border:1px solid #fff;
+    padding:8px;
+    /*padding-right:10px;*/
+     justify-content:space-between;
+}
+.tbd_awd_cat_spn{
+    width:30%;
+}
+.tbd_awd_sub_head{
+    width:65%;
+    font-size:20px;
+    font-weight:600;
+    color:#e5c66b;
+    border-right:none;
+}
+.tbd_awd_head_colon{
+    float:right;
+    /*text-align:right;*/
+   
+}
+
+.tbd_awd_spns_td_title{
+    width:60%; 
+
+
+}
+.tbd_awd_spns_td_bd{
+    width:40%; 
+
+}
+.tbd_awd_cnt_spn{
+    padding-left:30px;
+}
+.tbd_awd_body{
+    width:35%;
+    padding:0;
+    padding-right:10px;
+    font-size:20px;
+    font-weight:600;
+    border-right:none;
+}
+.tbd_awd_sub_body{
+    width:65%;
+    font-size:20px;
+    font-weight:600;
+}
+.tbd_awd_desc_dv{
+    font-size:18px;
+    font-weight:600;
+}
+.tbd_awd_spns_tbl{
+    font-size:18px;
+    font-weight:600;
+}
+
+/* code end */
+
+.tbd_award_about_p{
+      font-weight:400;
+    font-family:'Syne', sans-serif;
+    font-size:14px;  
+}
+/*end about section*/
+
+/*start unfold section*/
+#tbd_award_unfold{
+     width:100%;
+}
+
+.tbd_award_table_th{
+    height:70px;
+    width:70px;
+    /*padding-right:20px;*/
+}
+.tbd_award_tbl_img{
+    height:50px;
+    width:50px;
+}
+.tbd_award_unfold-h{
+    font-size:14px;
+}
+.tbd_award_unfold-p{
+    font-size:14px;
+
+}
+#tbd_award_sub_cat{
+    padding-top:10px;
+    height:70px;
+    width:auto;
+    font-size:15px;
+}
+
+.btn-process{
+ width:100%;
+ padding-top:5px;
+ padding-bottom:5px;
+ border-radius:12px;
+}
+
+.btn-process:hover{
+  background-color:#FF0000;        
+}
+.tbd_award_name{
+    width:100%;
+    height:50px;
+    /*border:1px solid red;*/
+    padding-bottom:0px;
+}
+
+.tbd_award_cat_div-lt{
+    border-top:1px solid #e5c66b;
+    padding-top:20px;
+    border-radius:22px;
+    padding-bottom:0px;
+}
+.tbd_award_cat_div{
+    border-bottom:4px solid #e5c66b;
+    /*padding-top:20px;*/
+    border-radius:22px;
+
+}
+
+#tbd_award_unfold_td{
+    width:100%;
+}
+
+.tbd_award_unfold_mobile_view{
+    display:visible;
+}
+.tbd_award_cat_div-rt{
+    border-top:1px solid #e5c66b;
+    border-bottom:4px solid #e5c66b;
+    padding-top:20px;
+    border-radius:22px;
+}
+
+#tbd_award_name_rg{
+    background-color:#e5c66b;
+    color:#000000;
+    border: 1px solid #e5c66b;
+    height:flex;
+}
+#tbd_award_cat-12{
+    width:100%;
+    height:auto;
+}
+
+#tbd_award_cat-md3{
+    width:100%;
+    height:flex;
+    margin-bottom:10px;
+}
+
+#tbd_award_cat-aw-nl{
+    width:100%;
+    height:auto;
+}
+
+#tbd_award_cat-aw-nr{
+    width:100%;
+        height:auto;
+}
+#tbd_award_cat-awd8{
+    width:100%;
+}
+/*end unfold section*/
+
+/*start reason attend */
+.tbd_award_reason_attend_h1{
+    font-size:60px;
+}
+.tbd_award_reason_attend_img{
+    width:40px;
+    height:auto;
+    margin:0px;
+    padding:0px;
+    /*margin-top:20px;*/
+    /*padding-left:1%;*/
+    /*padding-right:2%;*/
+}
+.tbd_awd_keys_spn{
+    display:none;
+}
+
+#tbd_award_keys_res_att{
+    width:90px;
+}
+#tbd_award_keys_res_cnt{
+    width:90%;
+}
+.tbd_awd_footer_useful_links{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.tbd_awd_keys_reasons{
+    font-size:21px;
+}
+
+.tbd_awd_ind_awd{
+    text-align:center;
+}
+.me-4{
+    border:2px solid #e5c66b;
+}
+/*end reason attend */
+
+/*start nomination and registration*/
+.tbd_award_nomination_title{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:0px;
+    background-color:#604414;
+    color:#faf1a7; 
+    padding-left:5%;
+    font-size:19px;
+    width:100%;
+}
+ #tbd_award_nomination_heading{
+    width:100%;
+}
+
+.tbd_award_dis_nom_head{
+    width:100%; 
+    color:#fff; 
+    padding:8px; 
+    text-align:center; 
+    padding-top:8px; 
+    background-color:#604414; 
+    padding:0px;
+    /*margin-left:-14%;*/
+    height:40px; 
+    padding-top:5px;
+    padding-left:4%;
+    border:1px solid #604414;
+}
+
+.tbd_award_dis_nom_head h3{
+    font-size:21px;
+}
+.tbd_award_discound_nomination{
+    /*padding:20px; */
+    background-color:#e5c66b; 
+    color:#000000; 
+    border:2px solid #e5c66b; 
+    border-radius:12px; 
+    padding-left:2%;
+    padding-right:2%
+}
+.tbd_award_dis_nom_spn1{
+    font-size:19px; 
+    font-weight:bold;
+}
+
+.tbd_award_dis_nom_spn2{
+    font-size:19px; 
+    font-weight:400;
+}
+/*end nomination and registration     */
+
+#tbd_award_eminent_jury_members{
+    width:100%;
+}
+
+
+#tbd_award_why_partner_heading{
+    width:100%;
+}
+
+
+#tbd_award_tbl_img_li{
+    border-style: dashed;
+    border-bottom:1px solid #e5c66b;
+    padding-bottom:5px;
+    width:7%;
+}
+#tbd_award_tbl_hed_li{
+    padding-top:0px;
+    width:40%;
+    padding-left:0px;
+    padding-right:0px;
+    margin-left:0px;
+    margin-right:0px;
+    font-size:12px;
+    border-style: dashed;
+    border-bottom:1px solid #e5c66b;
+    padding-bottom:5px;
+    text-wrap: pretty;
+}
+.tbd_award_tbl_li_spn{
+   padding-right:0px;
+   padding-left:0;
+}
+#tbd_award_bdy_li{
+    padding-top:0px;
+    padding-left:2px;
+    width:53%;
+    border-style: dashed;
+    border-bottom:1px solid #e5c66b;
+    padding-bottom:5px;
+    font-size:12px;
+}
+
+/*start popup model */
+#tbd_award_model_header{
+    padding-left:0px;
+}
+
+#exampleModalLongTitle{
+    padding-left:0px;
+}
+.tbd_award_model_hed_spn{
+    font-size:19px;
+    font-weight:600;
+}
+#tbd_award_model_body{
+    font-size:14px;
+}
+.tbd_award_name{
+    font-size:14px;
+}
+
+.tbd_awd_part_img{
+    width:100px;
+    margin:10px;
+    border-radius:12px;
+    background-color:#fff;
+}
+
+.tbd_awd_par_img{
+    width:180px; 
+    height:auto;
+}
+
+
+.tbd_award_key_net{
+    font-size:14px;
+    font-weight:600;
+}
+
+.tbd_awd_keys_cnt{
+    font-size:11px;
+}
+
+
+.tbd_awd_par_img{
+    height:40px;
+    width:auto;
+    margin:2px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:2%;
+    padding:5px;
+    border-radius:5px;
+    background-color:#fff;
+    border:1px solid #fff;
+    /*backdrop-filter: blur(5px);*/
+}
+.tbd_awd_par_img:hover{
+filter: grayscale(1);
+}
+
+
+.tbd_awd_part_div{
+    text-align:center;
+}
+
+
+
+/*start login and redg section*/
+.tbd_auth_img{
+  height:20px; 
+  width:auto; 
+  float:left;  
+}
+
+ .tbd_auth{
+     margin:2%;
+     padding:2%;
+     border:2px solid red;
+     border-radius:12px;
+     /*backdrop-filter: blur(10px);*/
+     background-color:#191919;
+     border-right:5px solid red;
+     width:100%;
+     margin-top:50px;
+     padding-top:30px;
+     padding-bottom:50px;
+     margin-bottom:180px;
+ } 
+ .tbd_auth_btn_submit{
+     padding-top:4px;
+     padding-bottom:4px;
+     border-radius:12px;
+     align-items:center;
+ }
+/*end login and redg section*/
+
+/*.tbd_award_nomin_blink{*/
+/*  width: fit-content;*/
+/*  font-weight: bold;*/
+/*  font-family: monospace;*/
+/*  font-size: 14px;*/
+/*  background:linear-gradient(90deg,#000 50%,#E31E24 0) right/200% 100%;*/
+/*  animation: l21 3s infinite linear;*/
+/*}*/
+/*.tbd_award_nomin_blink::before {*/
+  /*content :"Don’t miss the chance to showcase your achievements!";*/
+/*  color: #0000;*/
+/*  padding: 0 5px;*/
+/*  background: inherit;*/
+/*  background-image: linear-gradient(90deg,#fff 50%,#000000 0);*/
+/*  -webkit-background-clip:text;*/
+/*          background-clip:text;*/
+/*}*/
+
+/*@keyframes l21{*/
+/*  100%{background-position: left}*/
+/*}*/
+
+.loader {
+  width: fit-content;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 14px;
+  background:linear-gradient(90deg,red 50%,#0000 0) right/200% 100%;
+  animation: l21 3s infinite linear;
+}
+.loader::before {
+  content :"Don’t miss the chance to showcase your   achievements!";
+  color: #0000;
+  padding: 0 5px;
+  background: inherit;
+  background-image: linear-gradient(90deg,#fff 50%,red 0);
+  -webkit-background-clip:text;
+          background-clip:text;
+}
+
+@keyframes l21{
+  100%{background-position: left}
+}
+/*end popup model*/
+
+ }
+ 

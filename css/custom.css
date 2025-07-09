@@ -1,0 +1,1002 @@
+/*all file mobile view*/
+body{
+    margin:0;
+    padding:0;
+    background-color:#000000;
+    background-image: linear-gradient(rgba(0, 0, 0, .95), rgba(0, 0, 0, .75)), url("https://tbdawards.com/assets/logo/bg.jpg") ;
+    font-family:'Syne', sans-serif;
+    color:#e5c66b;
+    font-size:19px;
+    
+}
+
+
+
+
+.tbd_award_alink{
+    text-decoration:none;
+    color:#E31E24;
+}
+
+.tbd_award_alink:hover{
+    text-decoration:none;
+    color:#FF0000;
+
+}
+
+.tbd_award_hd_sp{
+color:#E31E24; font-weight:600;
+}
+
+.tbd_award_div{
+    padding-left:4%;
+    padding-right:4%;
+    padding-top:20px;
+}
+section{
+    padding-top:2%;
+    padding-bottom:2%;
+
+}
+
+.tbd_award_sub_title{
+    border:1px solid #6a4d27; 
+    background-color:#6a4d27;
+    width:100%; 
+    padding-left:10px;
+    margin-bottom:2%;
+}
+/*start banner section -------------------------------------------------------- */
+.tbd_awards_banner_dv{
+    width:100%;
+    height:auto;
+}
+
+.tbd_awards_banner{
+    width:100%;
+    height:auto;
+}
+
+.tbd_award_heading{
+    height:50px;
+    width:70%;
+    padding-left:4%;
+    padding-top:2px;
+    padding-bottom:2px;
+    background-color:#e5c66b;
+    border:1px solid #e5c66b;
+    color:#000000;
+    font-weight:bold;
+    border-radius:0px 80px 0px 0px;
+}
+
+.tbd_awards_heading_title{
+    color:#000000;
+
+}
+
+
+/*End banner section*/
+
+/*start about section ---------------------------------------------------------*/
+.tbd_award_about{
+    padding-top:20px;
+    padding-left:4%;
+    padding-right:4%;
+    font-size:19px;
+    font-family:'Syne', sans-serif;
+}
+
+.tbd_award_about_p{
+    font-size:19px;
+    font-weight:400;
+    font-family:'Syne', sans-serif;
+}
+/*end about section*/
+
+
+/*start unfold section ---------------------------------------------------------*/
+
+.tbd_award_div{
+    padding-top:20px;
+}
+.tbd_award_unfold-h{
+    font-size:21px;
+    color:#E1CC74;
+
+}
+
+.tbd_award_tbl_li_spn{
+    padding-right:20px;
+}
+.tbd_award_table_th{
+    width:130px;
+}
+
+
+.tbd_award_tbl_img{
+    height:70px; width:70px;
+}
+.tbd_award_unfold-p{
+    font-size:19px;
+}
+
+#tbd_award_tbl_img_li, #tbd_award_tbl_hed_li, #tbd_award_bdy_li{
+    position:static;
+}
+#tbd_award_keys_res_att{
+    position:static;  
+}
+
+
+.tbd_award_reason_attend_div{
+    position:static; 
+}
+/*end unfold section*/
+
+
+
+/*start agenda section ---------------------------------------------------------*/
+.tbd_award_agenda{
+    padding-left:4%;
+    padding-right:4%;
+    
+}
+
+.tbd_award_agenda{
+    margin-top:10px;
+}
+/*end agenda section*/
+
+/*start tbd_award_who_should_attend section ------------------------------------*/
+#tbd_award_who_should_attend_row{
+    border-left:5px solid #e5c66b; 
+    border-right:5px solid #e5c66b;
+    padding-top:20px; 
+    padding-bottom:20px; 
+    border-radius:22px;
+}
+.tbd_award_who_should_attend{
+    padding-left:4%;
+    padding-right:4%;
+    margin-top:10px;
+}
+
+.tbd_award_aw_wh_sh_att{
+    width:95%; 
+    margin-bottom:10px; 
+    margin-top:5px; 
+    padding-top:8px; 
+    padding-bottom:8px; 
+    background-color:transparent; 
+    /*border:1px solid #191919; */
+}
+/*end tbd_award_who_should_attend section*/
+
+/*start tbd_award_reason_attend section ----------------------------------------*/
+.tbd_award_reason_attend_img{
+    height:100px;
+    width:auto;
+    /*padding-top:20px;*/
+    /*padding-left:3%;*/
+    /*padding-right:3%;*/
+
+}
+/*end tbd_award_reason_attend section*/
+.tbd_award_reason_attend_h1{
+    font-size:70px;
+}
+
+#tbd_award_keys_res_att{
+    text-align:center;
+    padding:10px;
+}
+
+
+.tbd_award_key_net{
+    font-size:19px;
+    font-weight:600;
+}
+#tbd_award_key_res_div{
+    border:1px solid #e5c66b;
+    padding-top:10px; 
+    border-radius:22px;
+    /*border-left:2px solid #000000; */
+    border-left:2px;
+    padding-right:1%;
+    margin-bottom:1%;
+
+}
+
+.tbd_award_reason_attend_div{
+    background-color:#6a4d27; 
+    border-radius:12px; 
+    margin-bottom:10px; 
+    padding-top:10px; 
+    padding-bottom:10px; 
+    padding-left:10px; 
+    color:#fff;
+}
+
+.tbd_award_reason_attend_div li{
+    list-style:none;
+}
+/*start nomination and registration --------------------------------------------*/
+/*.tbd_award_nomin_blink{*/
+/*  width: fit-content;*/
+/*  font-weight: bold;*/
+/*  font-family: monospace;*/
+/*  font-size: 19px;*/
+/*  background:linear-gradient(90deg,#000 50%,#E31E24 0) right/200% 100%;*/
+/*  animation: l21 4s infinite linear;*/
+/*}*/
+/*.tbd_award_nomin_blink::before {*/
+  /*content :"Don’t miss the chance to showcase your achievements!";*/
+/*  color: #0000;*/
+/*  padding: 0 5px;*/
+/*  background: inherit;*/
+/*  background-image: linear-gradient(90deg,#fff 50%,#000000 0);*/
+/*  -webkit-background-clip:text;*/
+/*          background-clip:text;*/
+/*}*/
+
+/*@keyframes l21{*/
+/*  100%{background-position: left}*/
+/*}*/
+.loader {
+  width: fit-content;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 19px;
+  background:linear-gradient(90deg,red 50%,#0000 0) right/200% 100%;
+  animation: l21 3s infinite linear;
+}
+.loader::before {
+  content :"Don’t miss the chance to showcase your   achievements!";
+  color: #0000;
+  padding: 0 5px;
+  background: inherit;
+  background-image: linear-gradient(90deg,#fff 50%,red 0);
+  -webkit-background-clip:text;
+          background-clip:text;
+}
+
+@keyframes l21{
+  100%{background-position: left}
+}
+.tbd_award_nomination_title{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:-80px;
+    background-color:#604414;
+    color:#faf1a7; 
+    padding-left:5%;
+    width:25%;
+}
+.tbd_award_nomination_p{
+    font-weight:600;
+}
+.tbd_award_sub_cat_sub-h{
+    font-weight:600;
+    color:#E31E24;
+}
+
+.tbd_award_nomination_body{
+    border-radius:12px; 
+    color:#000000; 
+    background-color:#e5c66b; 
+    padding-top:20px; 
+    padding-left:10px; 
+    padding-bottom:20px; 
+    padding-right:20px;
+}
+.tbd_award_nomination_spn{
+    font-weight:600;
+    padding-bottom:0px;
+    padding-top:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+.tbd_award_nomination_cont{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.tbd_award_nomination_cont li{
+    list-style:none;
+}
+
+#tbd_award_discound{
+    margin-top:4%;
+}
+.tbd_award_dis_nom_li{
+    list-style:none;
+}
+.tbd_award_dis_nom_head{
+    width:100%; 
+    color:#fff; 
+    padding:8px; 
+    text-align:center; 
+    padding-top:8px; 
+    background-color:#604414; 
+    margin-left:-14%;
+    height:50px; 
+    border:1px solid #604414;
+}
+.tbd_award_discound_nomination{
+    padding:20px; 
+    background-color:#e5c66b; 
+    color:#000000; 
+    border:2px solid #e5c66b; 
+    border-radius:22px; 
+    padding-left:15%;
+    padding-right:2%;
+    
+}
+
+.tbd_award_dis_nom_spn1{
+    font-size:30px; 
+    font-weight:bold;
+}
+
+.tbd_award_dis_nom_spn2{
+    font-size:30px; 
+    font-weight:400;
+}
+/*end nomination and registration*/
+
+
+/*start award categogy ---------------------------------------------------------*/
+#tbd_award_sub_cat{
+ background-color:#E1CC74; 
+ height:95%; 
+ width:95%; 
+ border:1px solid #E1CC74;
+ color:#000000; 
+ margin:2px; 
+ border-radius:22px; 
+ padding:20px; 
+ padding-left:11%;
+}
+
+.tbd_award_sub_cat_input{
+    float:left;
+}
+
+.tbd_award_name{
+    padding-left:10px; 
+    /*background-color:#191919; */
+    color:#E1CC74;  
+    list-style-type:none; 
+    font-size:19px; 
+    font-weight:400;
+    height:40px;
+    line-height:17px;
+    /*border:1px solid #191919; */
+    margin-bottom:5px; 
+}
+.btn-process{
+    width:50%;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color:#E31E24;
+    border:1px solid #E31E24;
+    color:#fff;
+    border-radius:12px;
+ }
+ 
+ 
+ .btn-process:hover{
+   background-color:#881215;
+   border:1px solid #e5c66b;
+   color:#fff;
+   -webkit-box-shadow: 5px 5px 10px #e5c66b;
+   -moz-box-shadow: 5px 5px 10px #e5c66b;
+   -ms-box-shadow: 5px 5px 10px #e5c66b;
+    box-shadow: 5px 5px 10px #e5c66b;
+ }
+/*end award category*/
+
+
+/*start award category*/
+#tbd_award_tbl_sub_cat{
+    padding-top:19px; 
+    padding-bottom:19px; 
+    border-bottom:2px solid #e5c66b;
+    position:static;
+}
+
+#tbd_award_tbl_sub_cat_fee{
+    padding-top:19px; 
+    padding-bottom:19px;
+    border-bottom:2px solid #e5c66b;
+    border-left:2px solid #e5c66b; 
+    /*border-right:2px solid #e5c66b;*/
+    position:static;
+}
+#tbd_award_tbl_sub_cat_stdfee{
+    padding-top:19px;
+    padding-bottom:19px;
+    border-bottom:2px solid #e5c66b;
+      position:static;
+}
+/*end award category*/
+
+/*start eminent section*/
+#tbd_award_eminent_jury_members{
+    width:50%;
+}
+
+
+#tbd_award_speaker_card{
+    height:400px;
+    padding:20px;
+    position:static;
+}
+
+.tbd_award_jury_card_div{
+    /*background-color:#191919; */
+    background:linear-gradient(rgba(90, 90, 90, .19), rgba(90, 90, 90, .19));
+    border-left:5px solid #e5c66b;
+    border-top:3px solid #e5c66b; 
+    /*backdrop-filter: blur(10px);*/
+    border-radius:22px; 
+    position:relative; 
+    width:100%; 
+    height:100%; 
+    color:#e5c66b; 
+    text-align:center; 
+    padding-top:20px;
+}
+
+
+.tbd_award_jury_card_img{
+    width:180px; 
+    border-radius:50%;
+    border-left:5px solid #E31E24; 
+    border-right:5px solid #e5c66b;
+    height:180px; 
+    padding:0px;
+    background-color:black;
+}
+
+.tbd_award_jury_card_cont{
+    width:100%;
+    /*padding-top:20px;*/
+    margin-top:20px;
+    color:#e5c66b;
+    border-radius:22px;
+    border-top:2px solid #e5c66b;
+
+}
+
+/*end eminent section*/
+/*start speaker*/
+.tbd_award_speaker_card_div{
+    /*background-color:#191919; */
+    background:linear-gradient(rgba(90, 90, 90, .19), rgba(90, 90, 90, .19));
+    border-bottom:5px solid #e5c66b;
+    border-top:5px solid #e5c66b;
+    border-left:1px solid #e5c66b; 
+    border-right:1px solid #e5c66b; 
+    border-radius:22px; 
+    position:relative; 
+    width:100%; 
+    height:100%; 
+    color:#e5c66b; 
+    text-align:center; 
+    padding-top:20px;
+}
+.tbd_award_speaker_card_img{
+    width:180px; 
+    background-color:#fff;
+    border-radius:50%;
+    border-left:5px solid #E31E24; 
+    border-right:5px solid #E31E24;
+    height:180px; 
+    padding:2px;
+}
+
+.tbd_award_speaker_card_cont{
+    width:100%;
+    padding-top:20px;
+    margin-top:20px;
+    color:#e5c66b;
+    border-radius:22px;
+    border-top:3px solid #e5c66b;
+    
+}
+/*end eminent section*/
+
+/*Start get start contact form*/
+.tbd_award_cont_form{
+    padding-left:0px;
+    list-style:none;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.tbd_award_cont_form li{
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+.tbd_award_cont_form a{
+    color:#e5c66b;
+    text-decoration:none;
+}
+
+.tbd_award_contact_form{
+    padding:10%;
+    padding-top:4%;
+    background-color:#191919;
+    height:100%;
+    width:100%;
+    border-radius:22px;
+    border:1px solid #e5c66b;
+    /*filter: drop-shadow(5px 5px);*/
+    border-right:5px solid #e5c66b;
+     border-bottom:5px solid #e5c66b;
+    position:static;
+}
+
+.tbd_award_cont_frm_inpt{
+    padding-top:5px;
+    padding-bottom:5px;
+    position:static;
+}
+
+.tbd_award_cont_frm_inpt input{
+    background-color:#e5c66b;
+    color:#000000;
+    padding-left:20px;
+    border:1px solid #e5c66b;
+    
+}
+.tbd_awd_cnt_spn{
+    padding-left:33px;
+}
+.tbd_award_cont_frm_inpt input:hover{
+    background-color:#00000;
+    color:#000000;
+    padding-left:20px;
+}
+.tbd_award_cont_frm_inpt textarea{
+    background-color:#e5c66b;
+    border:1px solid #e5c66b;
+    color:#000000;
+    padding-left:20px;
+}
+.tbd_award_btn_submit{
+color:#fff; background-color:#E31E24; border:1px solid #E31E24;
+}
+
+.tbd_award_btn_submit:hover{
+    background-color:#E31E24;
+    border:1px solid #E31E24;
+    color:#fff;
+}
+/*end get start contact form*/
+
+/*start partner section*/
+.tbd_award_partner-card{
+    margin:2%;
+    padding:10%; 
+    border-radius:12px; 
+    background-color:#191919; 
+    border-right:4px solid #e5c66b; 
+    border-bottom:1px solid #e5c66b;
+}
+
+.tbd_award_partner-card-img{
+    height:100%;
+    width:100%;
+     border-radius:12px; 
+}
+/*end partner section*/
+
+
+/*start why partner connect*/
+.tbd_award_partner_conn_h{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.tbd_award_partner_conn_h li{
+    list-style:none;
+}
+
+.tbd_award_partner_conn_h p{
+    font-weight:600;
+}
+
+.tbd_award_partner_conn_h li{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.tbd_award_partner_img{
+    height:100%;
+    width:100%;
+    
+    /*-webkit-animation: squareToCircle 8s 1s infinite alternate;*/
+}
+/*@-webkit-keyframes squareToCircle {*/
+/*    0% {*/
+/*      transform: rotate(0deg);*/
+/*    }*/
+/*    50% {*/
+/*      transform: rotate(-3deg);*/
+/*    }*/
+
+/*    100% {*/
+/*      transform: rotate(3deg);*/
+/*    }*/
+
+/*}*/
+/*end why partner connect*/
+
+/*commmon id*/
+#tbd_award_heading_about{}
+#tbd_award_heading_why_is_it_imp{}
+#tbd_award_unfold{}
+#tbd_award_heading_reason_attend{}
+#tbd_award_who_should_atmp{}
+#tbd_award_nomination_heading{}
+#tbd_award_awd_cat{}
+#tbd_award_nomination_fee{}
+#tbd_award_emi_jury_members{}
+#tbd_award_speakrs{}
+#tbd_award_partner{}
+#tbd_award_why_partner_heading{}
+#tbd_award_cont_us{}
+/*end common id*/
+
+/*start popup model*/
+.tbd_award_model_hed_spn{
+    padding-left:5px;
+}
+#tbd_award_model_header{
+    background-color:#e5c66b; 
+    border:1px solid #e5c66b; 
+    color:#E31E24;
+    padding-top:5px; 
+    margin-top:0px; 
+    margin-bottom:0px;
+    padding-bottom:0px;	
+    border:1px solid #e5c66b;
+}
+#tbd_award_model_hed_img{
+    height:70px; 
+    width:70px; 
+    border-radius:50%; 
+    padding:2px; 
+    border-left:4px solid #E31E24; 
+    border-right:4px solid green; 
+    box-shadow: inset 5px 50px 45px 20px rgba(0, 0, 0, 0.2);
+}
+#tbd_award_model_body{
+    background-color:#000000; 
+    color:#e5c66b; 
+    text-align:left; 
+    padding-left:2%;
+    padding-right:2%; 
+    font-size:19px;
+}
+/*end popup model*/
+
+
+
+
+/*start one page Conference Registration Form*/
+/*https://www.tbdawards.com/front/conference_registration_form*/
+.tbd_awd_row{
+  border:1px solid #e5c66b;
+  padding-bottom:2%; 
+  padding-top:2%;
+  border-radius:22px;
+  border-left:5px solid #E31E24;
+  border-right:5px solid #E31E24;  
+}
+.tbd-conf-form{
+    font-size:19px;
+    color:#e5c66b;
+    font-weight:600;
+    padding-bottom:1%;
+    padding-top:1%;
+}
+
+.tbd_awd_ipt{
+   background-color:#fff; 
+   border:1px solid #000000;
+   color:red;
+}
+
+.tbd_conf_form_label{
+    font-size:16px;
+    color:#000000;
+    font-weight:500;
+}
+
+.tbd_awd_submit{
+    width:99%; 
+    border-radius:12px; 
+    padding-top:8px; 
+    padding-bottom:8px; 
+    font-size:19px; 
+    font-weight:600; 
+    color:#fff; 
+    margin-top:10px;
+    background-color:#E31E24; 
+    border:2px solid #E31E24;
+}
+
+.tbd_awd_submit:hover{
+   background-color:#881215;
+    border:1px solid #e5c66b; 
+   -webkit-box-shadow: 5px 5px 10px #e5c66b;
+   -moz-box-shadow: 5px 5px 10px #e5c66b;
+   -ms-box-shadow: 5px 5px 10px #e5c66b;
+    box-shadow: 5px 5px 10px #e5c66b;
+}
+/*end one page Conference Registration Form*/
+
+
+
+
+/*tbd partner award section*/
+.tbd_awd_part_img{
+    width:100%;
+    height:auto;
+    border-radius:12px;
+    background-color:#fff;
+}
+/*end tdb partner award section*/
+
+/*start footer*/
+.me-4{
+    border:2px solid #e5c66b;
+}
+
+.me-4:hover{
+    border:2px solid #E31E24;
+}
+
+#tbd_award_footer_alink:hover{
+    color:#E31E24;
+}
+/*end footer*/
+
+/*start sponsersship page*/
+.tbd_awd_spns_tbl{
+    padding-top:5px;
+    padding-bottom:5px;
+    border:1px solid #000000;
+    background-color:#000000;
+    color:#e5c66b;
+    padding-left:8px;
+}
+.tbd_awd_main_head{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.tbd_awd_main_sub_head{
+    
+    width:50%;
+}
+.tbd_awd_head{
+    padding:0;
+    border:1px solid #fff;
+    /*padding-top:5px;*/
+    /*padding-bottom:5px;*/
+    font-weight:550;
+    padding-left:8px;
+    background-color:#000000;
+    color:#e5c66b;
+    border-left:1px solid #000000;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+}
+
+.tbd_awd_cat_spn{
+    width:30%;
+}
+
+.tbd_awd_sub_head{
+    background-color:#000000;
+    /*text-align:center;*/
+    color:#e5c66b;
+    margin-left:0;
+    padding-right:10px;
+    border-right:1px solid #fff;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+}
+.tbd_awd_body{
+    font-weight:550;
+    
+    /*padding-left:8px;*/
+    background-color:#000000;
+    color:#e5c66b;
+    padding-left:5px;
+    border-left:1px solid #000000;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+}
+.tbd_awd_sub_body{
+    background-color:#000000;
+    color:#e5c66b;
+    border-right:1px solid #000000;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+}
+.tbd_awd_desc_dv{
+   padding-top:5px;    
+   padding-bottom:5px;
+   padding-left:8px;
+   background-color:#000000;
+   color:#e5c66b; 
+   
+}
+.tbd_awd_desc_sub_dv{
+   padding-left:8px;
+   background-color:#d5d5d5;
+   color:#000000;  
+}
+.tbd_awd_desc{
+    border:1px solid #000000;
+     border-bottom:5px solid #000000;
+}
+.tbd_awd_desc_li{
+    /*list-style:none;*/
+    margin-top:1px;
+    /*border:1px solid #fff;*/
+    /*border-left:1px solid #d5d5d5;*/
+}
+
+.tbd_awd_spns_td_title{
+    font-size:16px;
+    border:1px solid #000000;
+    background-color:#d5d5d5;
+    padding-left:8px;
+}
+.tbd_awd_spns_td_bd{
+    font-size:16px;
+    background-color:#d5d5d5;
+    border:1px solid #000000;
+    padding-left:8px;
+}
+.tbd_awd_desc_li{
+  font-size:16px;
+}
+
+.tbd_awd_par_img{
+    height:95px;
+    width:auto;
+    margin:5px;
+    margin-left:0px;
+    margin-right:15px;
+    margin-bottom:2%;
+    padding:5px;
+    background-color:#fff;
+    position:static;
+}
+.tbd_awd_par_img:hover{
+filter: grayscale(1);
+ position:static;
+}
+
+
+.tbd_awd_part_div{
+    /*text-align:center;*/
+}
+/*end sponsrship page*/
+
+
+/*start sponsrship details*/
+.tbd_sp_heading{
+    padding:8px;
+}
+
+.tbd_sp_heading_title{
+    background-color:#e5c66b;
+    border:1px solid #e5c66b;
+    color:#000000;
+    /*backdrop-filter: blur(4px);*/
+}
+
+.tbd_sp_details{
+  margin-bottom:10%;
+  margin-top:10%;        
+  padding:4%;
+  border:1px solid #e5c66b;
+  border-right:5px solid #e5c66b;
+  border-left:5px solid #e5c66b;
+  border-radius:12px;
+  /*backdrop-filter: blur(8px);*/
+
+}
+
+.tbd_sp_details_label{
+    padding-bottom:8px;
+}
+.tbd_sp_details_input{
+    padding-bottom:8px;    
+}
+.tbd_awd_sp_ipt{
+   background-color:#e5c66b; 
+   border:1px solid #e5c66b;
+   color:red;
+}
+.tbd_awd_sp_chbox{
+    font-size:19px;
+}
+
+
+/*end sponsrship details*/
+
+
+/*start login and redg and forgot password*/
+.tbd_row{
+   padding-left:20px; 
+   padding-right:20px; 
+   margin-bottom:8px; 
+   margin-bottom:8px; 
+}
+.tbd_auth_head{
+    margin-bottom:40px;
+}
+.tbd_auth_img{
+  height:30px; 
+  width:auto; 
+  float:left;  
+}
+.tbd_auth_head_h{
+  font-weight:500;
+  color:red;
+  text-align:center;
+  padding:2px;
+  align-items: center;  
+}
+.tbd_ipt{
+    border:1px solid #e5c66b; 
+  background-color:#e5c66b; 
+  padding-left:10px;
+  color:#000000;
+}
+ .tbd_auth{
+     margin:2%;
+     padding:5%;
+     border:2px solid red;
+     border-radius:32px;
+     backdrop-filter: blur(10px);
+     background-color:#191919;
+     border-right:5px solid red;
+ }   
+ 
+ .tbd_auth_btn_submit{
+     background-color:#E31E24;
+     color:#fff;
+     border:2px solid #E31E24;
+     text-align:center;
+     align-items:center;
+     width:100%;
+     border-radius:12px;
+     
+ }
+  .tbd_auth_btn_submit:hover{
+    background-color:red;
+    border:2px solid red;
+    -webkit-box-shadow: 5px 5px 10px #e5c66b;
+   -moz-box-shadow: 5px 5px 10px #e5c66b;
+   -ms-box-shadow: 5px 5px 10px #e5c66b;
+    box-shadow: 5px 5px 10px #e5c66b;
+  }
+  
+  #tbd_static{
+    position:static;  
+}
+/*end login and redg and forgot password*/  
+  
